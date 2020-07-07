@@ -12,12 +12,39 @@
     padding: 9px 25px;
     cursor: printer;
 }
+.container categories{
+    margin-left: 100px;
+}
 .card{
     border: none;
     border-radius: 10px;
     box-shadow: 5px 5px 10px lightgray;
+    
 }
 .card-footer{
     background-color: white;
     border-top: none;
 }
+card box-img{
+    margin-left: 5px;
+    padding: 10px;
+}
+card beauty{
+    margin-bottom: 50px;
+    padding-left: 10px;
+    }
+pale-order{
+    width: 30px;
+    height: 20px;
+    padding: 0px;
+}
+
+.categories{
+    
+    margin-bottom: 100px;
+    width: 200px;
+    height: 40px;
+    padding-left: 20px;
+    position:  relative;
+    border-radius: 0px;
+    }
